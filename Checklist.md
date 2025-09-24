@@ -19,16 +19,20 @@
 
 ### PARSING
 
-- [ ] check extension .cub
+- [x] check arg
+- [x] check extension .cub
+- [x] check file access
+- [ ] Parse_file a faire
 - [ ] check presence de toutes les textures NO, SO, WE, EA
 - [ ] check les couleurs ( entre 0 - 255)
+- [ ] check player
 - [ ] check map valide : entouree de murs
 - [ ] check map valide : invalid caracteres ( pas : 0, 1, N, S, E, W)
 
 ### WINDOWS
 
-- [ ] Init MLX
-- [ ] creer fenetres
+- [x] Init MLX
+- [x] creer fenetres
 - [ ] charger les textures (mlx_xpm_file_to_image)
 - [ ] gerer fermeture fenetre ( ESC + la croix )
 
@@ -45,8 +49,8 @@
 
 ### Vrac
 
-- [ ] fonction pour quitter proprement
-- [ ] fonction pour messages d'erreurs personnalises
+- [x] fonction pour quitter proprement
+- [x] fonction pour messages d'erreurs personnalises
 
 
 *A completer au fur et a mesure* 
