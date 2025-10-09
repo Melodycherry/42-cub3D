@@ -23,11 +23,12 @@
 - [x] check extension .cub
 - [x] check file access
 - [ ] Parse_file a faire
-- [ ] check presence de toutes les textures NO, SO, WE, EA
-- [ ] check les couleurs ( entre 0 - 255)
-- [ ] check player
+- [x] check presence de toutes les textures NO, SO, WE, EA
+- [x] check les couleurs ( entre 0 - 255)
+- [x] check player
 - [ ] check map valide : entouree de murs
-- [ ] check map valide : invalid caracteres ( pas : 0, 1, N, S, E, W)
+- [x] check map valide : invalid caracteres ( pas : 0, 1, N, S, E, W)
+- [ ] flood fill a faire tout a la fin a partir de position du joueur 
 
 ### WINDOWS
 
