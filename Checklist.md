@@ -22,7 +22,7 @@
 - [x] check arg
 - [x] check extension .cub
 - [x] check file access
-- [ ] Parse_file a faire
+- [x] Parse_file a faire
 - [x] check presence de toutes les textures NO, SO, WE, EA
 - [x] check les couleurs ( entre 0 - 255)
 - [x] check player
@@ -39,7 +39,7 @@
 
 ### Raycasting
 
-** still don't know what to put here **
+** still don't know what to put here ** Hygie is doing it
 
 ### GAME
 
@@ -52,6 +52,13 @@
 
 - [x] fonction pour quitter proprement
 - [x] fonction pour messages d'erreurs personnalises
+
+Pense bete :
+- faire refacto des dernieres fonctions trop longues
+- Attention il y a des leaks dans parse_texture. A checker
+- Finir et checker player
+- Flood fill at the end 
+
 
 
 *A completer au fur et a mesure* 
