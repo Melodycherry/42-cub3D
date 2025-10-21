@@ -78,7 +78,7 @@ Pense bete :
 - 
 - invalid char !!! marche plus ---------------------------------------------------
 - empty line in map !!!! ne marche plus ------------------------------------------
-- space and tab before config line !!! ne marche plus ------------------------------------------
+- space and tab before config line ✓
 - nothing after the map ✓
 - 
 - empty line between config ✓
