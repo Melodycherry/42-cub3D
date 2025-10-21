@@ -59,6 +59,32 @@ Pense bete :
 - Finir et checker player
 - Flood fill at the end 
 
+### Recap de tests a faire 
+- no arg ✓
+- wrong extension ✓
+- 
+- invalid texture format ✓
+- missing texture ✓
+- duplicate texture orientation ✓
+- texture already defined ✓
+- 
+- missing floor or ceiling ✓
+- duplicate floor or ceiling ✓
+- invalid color ( 0 - 255 ) ✓
+- invalid color ID ( F - C ) ✓
+- invalid rgb format ✓
+- spaces between digits ✓
+- rgb component missing ✓
+- 
+- invalid char !!! marche plus ---------------------------------------------------
+- empty line in map !!!! ne marche plus ------------------------------------------
+- nothing after the map ✓
+- 
+- empty line between config ✓
+- no map ✓
+- empty map file ✓
+- only space or tab in map file ✓
+
 
 
 *A completer au fur et a mesure* 
