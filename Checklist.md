@@ -54,7 +54,7 @@
 - [x] fonction pour messages d'erreurs personnalises
 
 Pense bete :
-- faire refacto des dernieres fonctions trop longues
+- faire refacto des dernieres fonctions trop longues ( ok done ✓)
 - Attention il y a des leaks dans parse_texture. A checker
 - Finir et checker player
 - Flood fill at the end 
