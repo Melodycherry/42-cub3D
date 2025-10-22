@@ -87,6 +87,7 @@ Pense bete :
 - only space or tab in map file ✓
 
 - attention a la first line ( changer le detection de debut de map ? faire only 1 and spaces ? )
+- pareil pour end map ( car si on met qqchose apres cela fait invalid char et pas nothing after map )
 
 
 *A completer au fur et a mesure* 
