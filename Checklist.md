@@ -76,7 +76,7 @@ Pense bete :
 - spaces between digits ✓
 - rgb component missing ✓
 - 
-- invalid char !!! marche plus ---------------------------------------------------
+- invalid char ✓
 - empty line in map !!!! ne marche plus ------------------------------------------
 - space and tab before config line ✓
 - nothing after the map ✓
@@ -86,6 +86,7 @@ Pense bete :
 - empty map file ✓
 - only space or tab in map file ✓
 
+- attention a la first line ( changer le detection de debut de map ? faire only 1 and spaces ? )
 
 
 *A completer au fur et a mesure* 
