@@ -77,9 +77,9 @@ Pense bete :
 - rgb component missing ✓
 - 
 - invalid char ✓
-- empty line in map !!!! ne marche plus ------------------------------------------
+- empty line in map ✓
 - space and tab before config line ✓
-- nothing after the map ✓
+- nothing after the map ✓  ( sauf si empty line et smoth after )
 - 
 - empty line between config ✓
 - no map ✓
