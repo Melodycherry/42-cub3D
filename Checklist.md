@@ -86,8 +86,13 @@ Pense bete :
 - empty map file ✓
 - only space or tab in map file ✓
 
-- attention a la first line ( changer le detection de debut de map ? faire only 1 and spaces ? )
+- check too many player on the map ✓
+- check with double N N mais aussi avec N + E ou S + W ✓
+- check no player on the map ✓  
+
+
 - pareil pour end map ( car si on met qqchose apres cela fait invalid char et pas nothing after map )
+- -> ok regle mais seulement pour la ligne suivant la fin de map. SI qqqch apres, dit invalid char, pas nothing on the map
 
 
 *A completer au fur et a mesure* 
