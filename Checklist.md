@@ -26,7 +26,7 @@
 - [x] check presence de toutes les textures NO, SO, WE, EA
 - [x] check les couleurs ( entre 0 - 255)
 - [x] check player
-- [ ] check map valide : entouree de murs
+- [x] check map valide : entouree de murs
 - [x] check map valide : invalid caracteres ( pas : 0, 1, N, S, E, W)
 - [ ] flood fill a faire tout a la fin a partir de position du joueur 
 
@@ -55,8 +55,8 @@
 
 Pense bete :
 - faire refacto des dernieres fonctions trop longues ( ok done ✓)
-- Attention il y a des leaks dans parse_texture. A checker
-- Finir et checker player
+- Attention il y a des leaks dans parse_texture. A checker  ( ok done ✓)
+- Finir et checker player  ( ok done ✓)
 - Flood fill at the end 
 
 ### Recap de tests a faire 
