@@ -88,12 +88,16 @@ Pense bete :
 - 
 - check too many player on the map ✓
 - check with double N N mais aussi avec N + E ou S + W ✓
-- check no player on the map ✓  
-- 
-- pareil pour end map ( car si on met qqchose apres cela fait invalid char et pas nothing after map )
+- check no player on the map ✓
+-
+- map not enclosed with wall ✓  
+
+
+### TO DO RESTANT A CHECKER   
+- pour end map ( car si on met qqchose apres cela fait invalid char et pas nothing after map )
 - -> ok regle mais seulement pour la ligne suivant la fin de map. SI qqqch apres, dit invalid char, pas nothing on the map  
 
 - check xpm access ( hygie )  
-- check map trop grande ( a partir de combien c'est trop grand )  
+- check map trop grande ( a partir de combien c'est trop grand ? 8 Go ? )
 
-*A completer au fur et a mesure* 
+
