@@ -91,8 +91,9 @@ Pense bete :
 - check no player on the map ✓  
 - 
 - pareil pour end map ( car si on met qqchose apres cela fait invalid char et pas nothing after map )
-- -> ok regle mais seulement pour la ligne suivant la fin de map. SI qqqch apres, dit invalid char, pas nothing on the map
+- -> ok regle mais seulement pour la ligne suivant la fin de map. SI qqqch apres, dit invalid char, pas nothing on the map  
 
-- check xpm access ( hygie )
+- check xpm access ( hygie )  
+- check map trop grande ( a partir de combien c'est trop grand )  
 
 *A completer au fur et a mesure* 
