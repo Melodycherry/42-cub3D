@@ -93,5 +93,6 @@ Pense bete :
 - pareil pour end map ( car si on met qqchose apres cela fait invalid char et pas nothing after map )
 - -> ok regle mais seulement pour la ligne suivant la fin de map. SI qqqch apres, dit invalid char, pas nothing on the map
 
+- check xpm access ( hygie )
 
 *A completer au fur et a mesure* 
