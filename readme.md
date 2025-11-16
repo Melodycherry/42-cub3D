@@ -55,7 +55,7 @@ Le fichier de map doit contenir :
 
 ---
 
-**🧠 Ce que j’ai appris**:  
+**🧠 Ce que nous avons appris**:  
 
 • 🔦 Principes du **raycasting** pour simuler la 3D à partir d’un plan 2D  
 • 🧮 Utilisation des **mathématiques appliquées** pour les angles, distances et projections  
