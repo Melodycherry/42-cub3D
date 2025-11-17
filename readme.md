@@ -47,11 +47,11 @@ Le fichier de map doit contenir :
 ( insert pic )  
 
 ## ✨ Bonus possibles :  
-• 🚪 Collisions avec les murs: OK  
-• 🧭 Minimap affichant la position du joueur: OK    
-• 🕹️ Portes ouvrables/fermables  
-• 🌀 Sprites animés  
-• 🖱️ Rotation du point de vue avec la souris  
+• 🚪 Collisions avec les murs: OK    
+• 🧭 Minimap affichant la position du joueur: OK      
+• 🕹️ Portes ouvrables/fermables : OK   
+• 🌀 Sprites animés : OK    
+• 🖱️ Rotation du point de vue avec la souris : OK      
 
 ---
 
