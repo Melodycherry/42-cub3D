@@ -57,12 +57,12 @@ Le fichier de map doit contenir :
 
 **🧠 Ce que nous avons appris**:  
 
-• 🔦 Principes du **raycasting** pour simuler la 3D à partir d’un plan 2D  
-• 🧮 Utilisation des **mathématiques appliquées** pour les angles, distances et projections  
-• 🎨 Gestion des **textures** et des **couleurs RGB** avec MiniLibX  
-• 🎮 Gestion des **événements clavier** et de la **boucle graphique**  
-• 🧱 Parsing complexe d’un fichier `.cub` et validation des cartes  
-• ❌ Gestion d’erreurs robustes et affichage d’un message clair  
+• 🔦 Principes du **raycasting** pour simuler la 3D à partir d’un plan 2D (Hygie)    
+• 🧮 Utilisation des **mathématiques appliquées** pour les angles, distances et projections (Hygie)    
+• 🎨 Gestion des **textures** et des **couleurs RGB** avec MiniLibX (Hygie)    
+• 🎮 Gestion des **événements clavier** et de la **boucle graphique** (Hygie)    
+• 🧱 Parsing complexe d’un fichier `.cub` et validation des cartes (Melo)    
+• ❌ Gestion d’erreurs robustes et affichage d’un message clair (Melo)    
 
 ---
 
