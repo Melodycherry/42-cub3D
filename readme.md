@@ -35,7 +35,8 @@ Le fichier de map doit contenir :
 - `N`, `S`, `E`, `W` → position et orientation du joueur  
 
 ##  🧱 Exemple de carte valide :  
-( insert pic )  
+
+![Carte](https://github.com/Melodycherry/42-cub3D/blob/main/img_md/screenshot_map.png)
 
 ##  ⚠️ Contraintes de la carte :   
 - Elle doit être **fermée par des murs**.  
@@ -44,7 +45,12 @@ Le fichier de map doit contenir :
 - En cas d’erreur de configuration, le programme doit afficher :  
 
 ## 🖼️ Graphismes & Fenêtre
-( insert pic )  
+
+### Ecran d'accueil :  
+![opening](https://github.com/Melodycherry/42-cub3D/blob/main/img_md/opening.png)
+
+### Gameplay :
+![Gameplay](https://github.com/Melodycherry/42-cub3D/blob/main/img_md/gameplay.png)
 
 ## ✨ Bonus possibles :  
 • 🚪 Collisions avec les murs: OK    
