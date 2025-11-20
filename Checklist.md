@@ -13,9 +13,9 @@
 
 ### MAPS
 - [x] maps exemple
-- [ ] maps simples
-- [ ] maps complexes
-- [ ] plusieurs map avec erreurs
+- [x] maps simples
+- [x] maps complexes
+- [ ] plusieurs map avec erreurs ( modif seront faites directement en correction )
 
 ### PARSING
 
@@ -28,14 +28,14 @@
 - [x] check player
 - [x] check map valide : entouree de murs
 - [x] check map valide : invalid caracteres ( pas : 0, 1, N, S, E, W)
-- [ ] flood fill a faire tout a la fin a partir de position du joueur 
+- [x] flood fill a faire tout a la fin a partir de position du joueur 
 
 ### WINDOWS
 
 - [x] Init MLX
 - [x] creer fenetres
-- [ ] charger les textures (mlx_xpm_file_to_image)
-- [ ] gerer fermeture fenetre ( ESC + la croix )
+- [x] charger les textures (mlx_xpm_file_to_image)
+- [x] gerer fermeture fenetre ( ESC + la croix )
 
 ### Raycasting
 
@@ -43,9 +43,9 @@
 
 ### GAME
 
-- [ ] player avec touche W A S D
-- [ ] mise a jour de position du joueur
-- [ ] gerer colision avec les murs 
+- [x] player avec touche W A S D
+- [x] mise a jour de position du joueur
+- [x] gerer colision avec les murs 
 
 
 ### Vrac
@@ -57,47 +57,41 @@ Pense bete :
 - faire refacto des dernieres fonctions trop longues ( ok done ✓)
 - Attention il y a des leaks dans parse_texture. A checker  ( ok done ✓)
 - Finir et checker player  ( ok done ✓)
-- Flood fill at the end 
+- Flood fill at the end ( Merci Hygie )
 
-### Recap de tests a faire 
-- no arg ✓
-- wrong extension ✓
+
+# RECAP DE TESTS A FAIRE
+
+- [x] no arg ✓
+- [x] wrong extension ✓
 - 
-- invalid texture format ✓
-- missing texture ✓
-- duplicate texture orientation ✓
-- texture already defined ✓
+- [x] invalid texture format ✓
+- [x] missing texture ✓
+- [x] duplicate texture orientation ✓
+- [x] texture already defined ✓
 - 
-- missing floor or ceiling ✓
-- duplicate floor or ceiling ✓
-- invalid color ( 0 - 255 ) ✓
-- invalid color ID ( F - C ) ✓
-- invalid rgb format ✓
-- spaces between digits ✓
-- rgb component missing ✓
+- [x] missing floor or ceiling ✓
+- [x] duplicate floor or ceiling ✓
+- [x] invalid color ( 0 - 255 ) ✓
+- [x] invalid color ID ( F - C ) ✓
+- [x] invalid rgb format ✓
+- [x] spaces between digits ✓
+- [x] rgb component missing ✓
 - 
-- invalid char ✓
-- empty line in map ✓
-- space and tab before config line ✓
-- nothing after the map ✓  ( sauf si empty line et smoth after )
+- [x] invalid char ✓
+- [x] empty line in map ✓
+- [x] space and tab before config line ✓
+- [x] nothing after the map ✓  
 - 
-- empty line between config ✓
-- no map ✓
-- empty map file ✓
-- only space or tab in map file ✓
+- [x] empty line between config ✓
+- [x] no map ✓
+- [x] empty map file ✓
+- [x] only space or tab in map file ✓
 - 
-- check too many player on the map ✓
-- check with double N N mais aussi avec N + E ou S + W ✓
-- check no player on the map ✓
+- [x] check too many player on the map ✓
+- [x] check with double N N mais aussi avec N + E ou S + W ✓
+- [x] check no player on the map ✓
 -
-- map not enclosed with wall ✓  
-
-
-### TO DO RESTANT A CHECKER   
-- pour end map ( car si on met qqchose apres cela fait invalid char et pas nothing after map )
-- -> ok regle mais seulement pour la ligne suivant la fin de map. SI qqqch apres, dit invalid char, pas nothing on the map  
-
-- check xpm access ( hygie )  
-- check map trop grande ( a partir de combien c'est trop grand ? 8 Go ? )
+- [x] map not enclosed with wall ✓  
 
 
