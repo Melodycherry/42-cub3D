@@ -1,6 +1,6 @@
 # 🧱 Cub3D — Jeu 3D RayCaster with MiniLibX  
 
-### Projet réalisé en collaboration avec [@Hyliah](https://github.com/Hyliah) 
+### Projet réalisé en collaboration : [@Hyliah](https://github.com/Hyliah) et [@Melodycherry](https://github.com/Melodycherry) aka *"Les codeuses du dimanche"*
 Inspiré du jeu mythique **Wolfenstein 3D** (Id Software, 1992), le premier "First Person Shooter" dans l'histoire du jeu vidéo.  
 (insert link ) 
 
@@ -32,7 +32,7 @@ Le fichier de map doit contenir :
 - La **carte du labyrinthe**, composée uniquement des caractères :  
 - `1` → mur  
 - `0` → espace vide  
-- `N`, `S`, `E`, `W` → position et orientation du joueur  
+- `N`, `S`, `E`, `W`, `D`  → position et orientation du joueur + portes éventuelles    
 
 ##  🧱 Exemple de carte valide :  
 
@@ -42,14 +42,14 @@ Le fichier de map doit contenir :
 - Elle doit être **fermée par des murs**.  
 - Les espaces sont **valides** et doivent être gérés correctement.  
 - La **map** doit toujours être **le dernier élément du fichier**.  
-- En cas d’erreur de configuration, le programme doit afficher :  
+- En cas d’erreur de configuration, le programme doit afficher un message d'erreur spécifique     
 
 ## 🖼️ Graphismes & Fenêtre
 
-### Ecran d'accueil :  
+### Ecran d'accueil et choix du player :  
 ![opening](https://github.com/Melodycherry/42-cub3D/blob/main/img_md/opening.png)
 
-### Gameplay :
+### Gameplay et minimap :
 ![Gameplay](https://github.com/Melodycherry/42-cub3D/blob/main/img_md/gameplay.png)
 
 ## ✨ Bonus possibles :  
