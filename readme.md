@@ -73,7 +73,7 @@ Le fichier de map doit contenir :
 ---
 
 ✅ **STATUT:**  
-📅 Date de rendu : -  
-📝 Note obtenue : -  
+📅 Date de rendu : 30-11-2025    
+📝 Note obtenue : 125/100  
 
 ---
